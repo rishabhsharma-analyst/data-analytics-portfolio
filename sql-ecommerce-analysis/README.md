@@ -4,7 +4,7 @@
 This project analyzes e-commerce order data to understand revenue trends and customer behavior.
 
 ##Tools Used
-- SQL
+SQL
 
 ##Analysis
 Revenue trends
